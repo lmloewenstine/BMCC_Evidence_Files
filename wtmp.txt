@@ -1,0 +1,33 @@
+user     tty2         /dev/tty2        Wed Nov 13 16:36    gone - no logout
+user     pts/1        /dev/tty1        Wed Nov 13 13:50    gone - no logout
+root     pts/1        192.168.156.137  Wed Nov 13 12:10 - 13:01  (00:50)
+admin    pts/0        /dev/tty0        Wed Nov 13 12:02 - 14:17  (02:15)
+reboot   system boot  4.13.8-100.fc25. Tue Nov 12 11:58   still running
+user     pts/5        /dev/tty         Wed Nov  6 15:02 - 15:09 (2+00:07)
+user     pts/1        /dev/tty2        Wed Nov  6 13:50 - 16:05  (02:15)
+user     pts/1        /dev/tty         Sat Oct 26 15:29 - 15:37  (00:08)
+user     pts/1        /dev/tty0        Fri Oct 25 13:28 - 13:29  (00:01)
+admin    pts/5        /dev/tty0        Fri Oct  4 11:43 - 11:47  (00:03)
+user     tty2         /dev/tty2        Tue Sep  3 13:56 - 15:09 (66+02:13)
+reboot   system boot  4.13.8-100.fc25. Tue Sep  3 13:54 - 15:09 (66+02:14)
+user     pts/3        /dev/tty0        Thu Aug 29 17:20 - 17:23  (00:03)
+admin    pts/4        /dev/tty0        Tue May 28 15:54 - 17:35  (01:40)
+user     tty2         /dev/tty2        Mon May 20 09:45 - crash (106+04:08)
+reboot   system boot  4.13.8-100.fc25. Mon May 20 09:43 - 15:09 (172+06:26)
+admin    pts/2        /dev/tty0        Mon Feb  4 14:08 - 15:28  (01:19)
+admin    pts/2        /dev/tty0        Thu Jan  3 14:46 - 14:49  (00:02)
+user     tty2         /dev/tty2        Mon Nov 19 10:37 - crash (181+22:05)
+reboot   system boot  4.13.8-100.fc25. Mon Nov 19 05:32 - 15:09 (354+09:36)
+user     tty2         /dev/tty2        Fri Nov 16 16:23 - 17:27  (01:03)
+reboot   system boot  4.13.8-100.fc25. Fri Nov 16 11:22 - 15:09 (357+03:47)
+user     tty2         /dev/tty2        Fri Nov 16 11:49 - down   (02:35)
+reboot   system boot  4.13.8-100.fc25. Mon Oct 22 12:23 - 14:24 (25+03:01)
+admin    pts/2        /dev/tty0        Thu Jul 26 10:34 - 10:35  (00:00)
+user     tty2         /dev/tty2        Fri Jul 20 11:42 - down  (91+04:55)
+reboot   system boot  4.13.8-100.fc25. Fri Jul 20 07:37 - 16:38 (91+09:00)
+user     pts/2        /dev/tty0        Tue May 15 15:23 - 15:24  (00:01)
+user     pts/3        /dev/tty1        Fri Apr 27 20:15 - 20:33  (00:17)
+user     pts/2        /dev/tty1        Fri Apr 27 19:02 - 20:33  (01:30)
+user     system boot  /dev/ttyp0       Fri Apr 27 19:02 - 16:38 (174+21:36)
+
+wtmp begins Fri Apr 27 19:02:13 2018

